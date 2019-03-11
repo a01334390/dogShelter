@@ -195,3 +195,7 @@ rule NetworkAdminSystem {
 ```
 
 ### Paso 5: Desplegar y disfutar!
+
+Puedes empezar a generar transacciones, a crear assets y participantes y ver tus resultados en el Tab de Historian
+
+![alt Pagina de Hyperledger Playground - Paso 1](https://raw.githubusercontent.com/a01334390/dogShelter/master/pictures/playground-last.png)
